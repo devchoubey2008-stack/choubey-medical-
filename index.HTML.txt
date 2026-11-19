@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="RXvoQzF4AXN4q_1yWrhvINkLPhQltPkTXehEJ22cH_c" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Choubey Ji Medical Store | Trusted Healthcare & Medicines</title>
